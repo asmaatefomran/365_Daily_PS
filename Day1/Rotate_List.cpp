@@ -1,5 +1,6 @@
 //Day 1    5/5/2026
 //https://leetcode.com/problems/rotate-list/description/
+//Medium
 
 /**
  * Definition for singly-linked list.
