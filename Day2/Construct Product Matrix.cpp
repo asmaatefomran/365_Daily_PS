@@ -32,7 +32,7 @@ public:
 
 
 // I'm very interested about this solution, like the way of thinking about it is totally different, using the unused part of the numbers to store our prefix is totally a great idea of soling this problem in place(without using new space)
-//https://leetcode.com/problems/construct-product-matrix/solutions/7671331/0ms-true-o1-space-solution-by-jordinario-bmz4/?envType=daily-question&envId=2026-05-06
+//https://leetcode.com/problems/construct-product-matrix/solutions/7671331/0ms-true-o1-space-solution-by-jordinario-bmz4/
 
 func constructProductMatrix(grid [][]int) [][]int {
 	const MOD = 12345
