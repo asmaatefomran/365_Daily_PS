@@ -7,7 +7,7 @@ This repository is part of my daily journey to improve my problem-solving skills
 
 - Practice problem solving every day to improve analytical thinking and strengthen my DSA skills using C++.
 - Improve my Java skills by re-solving selected problems in Java.
-- Improve my C# skills by re-solving selected problems in C#.
+- Improve my Python skills by re-solving selected problems in C#.
 - Build consistency through daily practice and continuous learning.
 - Keep notes, observations, and useful concepts organized in one place.
 
