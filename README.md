@@ -15,7 +15,7 @@ This repository is part of my daily journey to improve my problem-solving skills
 
 - C++
 - Java
-- C#
+- Python
 
 ## What You'll Find Here
 
